@@ -1,0 +1,11 @@
+{
+  "name": "awslambdawithcloudwatchcronevent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Dipanshu Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.713.0"
+  }
+}
