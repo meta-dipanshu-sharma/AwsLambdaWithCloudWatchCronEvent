@@ -6,6 +6,6 @@
   "author": "Dipanshu Sharma",
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "^2.713.0"
+    "aws-sdk": "^2.814.0"
   }
 }
